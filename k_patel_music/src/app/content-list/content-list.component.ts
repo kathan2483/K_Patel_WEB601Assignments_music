@@ -22,7 +22,7 @@ export class ContentListComponent implements OnInit {
         title: "Classical Maestros",
         description: "A deep dive into the lives and works of classical music legends, from Beethoven to Chopin.",
         creator: "Amadeus Mozart",
-        imgURL: "data:image/jpeg;base64,<Base64_encoded_image>",
+        imgURL: "https://img.freepik.com/premium-vector/square-poster-flyer-template-music-event-dj_85212-198.jpg",
         type: "Documentary",
         tags: ["Classical", "Composers"]
       },
@@ -31,7 +31,7 @@ export class ContentListComponent implements OnInit {
         title: "The Jazz Experience",
         description: "Exploring the rich history of jazz music, its evolution, and its profound impact on music today.",
         creator: "Ella Fitzgerald",
-        imgURL: "data:image/jpeg;base64,<Base64_encoded_image>",
+        imgURL: "https://img.freepik.com/premium-vector/square-poster-flyer-template-music-event-dj_85212-198.jpg",
         type: "Series",
         tags: ["Jazz", "History"]
       },
@@ -40,7 +40,7 @@ export class ContentListComponent implements OnInit {
         title: "Rock Revolution",
         description: "A series that chronicles the rise of rock music, featuring iconic bands and their journey to fame.",
         creator: "Jimmy Page",
-        imgURL: "data:image/jpeg;base64,<Base64_encoded_image>",
+        imgURL: "https://img.freepik.com/premium-vector/square-poster-flyer-template-music-event-dj_85212-198.jpg",
         type: "Documentary",
         tags: ["Rock", "Bands"]
       },
@@ -49,7 +49,7 @@ export class ContentListComponent implements OnInit {
         title: "Electronic Waves",
         description: "Dive into the world of electronic music, from the early days of techno and house to the modern EDM scene.",
         creator: "Daft Punk",
-        imgURL: "data:image/jpeg;base64,<Base64_encoded_image>",
+        imgURL: "https://img.freepik.com/premium-vector/square-poster-flyer-template-music-event-dj_85212-198.jpg",
         type: "Series",
         tags: ["Electronic", "EDM"]
       },
@@ -58,7 +58,7 @@ export class ContentListComponent implements OnInit {
         title: "Hip-Hop Chronicles",
         description: "An in-depth look at the hip-hop genre, its cultural significance, and the artists who shaped its direction.",
         creator: "Nasir Jones",
-        imgURL: "data:image/jpeg;base64,<Base64_encoded_image>",
+        imgURL: "https://img.freepik.com/premium-vector/square-poster-flyer-template-music-event-dj_85212-198.jpg",
         type: "Documentary",
         tags: ["Hip-Hop", "Culture"]
       }
